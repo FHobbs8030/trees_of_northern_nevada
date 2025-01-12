@@ -29,7 +29,7 @@ document.addEventListener("DOMContentLoaded", () => {
   const imageLibrary = {
     "The Black Cottonwood": {
       name: "The Black Cottonwood",
-      link: "http://127.0.0.1:5500/images/card-images/black_cottonwood_summer.webp",
+      link: "http://127.0.0.1:5500/images/card-images/black_cottonwood_summer.jpg",
       alt: "A beautiful landscape of the Black Cottonwood",
     },
     "Yosemite Valley": {
